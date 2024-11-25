@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PetraHedwig
 - 👀 I’m interested in learning to code, developing my skills and transitioning career into the digital industry
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning phython and Javascript
 - 💞️ I’m looking to collaborate - anything! I'm a beginner to coding so looking for simple projects to hone my skills.
 - 📫 How to reach me - drop me a message on Github
 - 😄 Pronouns: she/her
